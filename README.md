@@ -136,6 +136,10 @@ so we can send an invite to our Slack channel
 -------------------
 Fork the repository to your GitHub account
 
+Maven modules dependencies
+-------------------
+![maven-modules.svg](maven-modules.svg)
+
 Clone from fork repository
 -------------------
 
