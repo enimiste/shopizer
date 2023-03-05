@@ -138,7 +138,7 @@ Fork the repository to your GitHub account
 
 Maven modules dependencies
 -------------------
-![maven-modules.svg](maven-modules.svg)
+![maven-modules.svg](maven-modules.png)
 
 Clone from fork repository
 -------------------
